@@ -1,2 +1,2 @@
 console.log("index.js");
-console.log("Version 23Z");
+console.log("Version Z");
